@@ -7,7 +7,7 @@
 
 ### 설명
 주어진 이미지에서 중점을 찾아, README.md 파일에 작성해라
-![ex](https://user-images.githubusercontent.com/53847442/122205710-85083780-cedb-11eb-9e58-ce560a195b67.png){: width="50%" height="50%"}
+![ex](https://user-images.githubusercontent.com/53847442/122205710-85083780-cedb-11eb-9e58-ce560a195b67.png)
 
 ### 입력예시
 ex.png
