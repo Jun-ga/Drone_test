@@ -21,13 +21,15 @@ __README.md 파일 업로드 기한 : 7월 13일 자정__
 
 `아래의 예시를 참고하여 가독성 있게 작성`
 
-* README.md 를 작성하기 위한 마크다운 문법 설명
+### README.md 를 작성하기 위한 마크다운 문법 설명
 * [마크다운 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
-* README.md 작성 예시
+### README.md 작성 예시
 * [Sample 1](https://github.com/MrEliptik/HandPose/blob/master/README.md)
 * [Sample 2](https://github.com/thoughtbot/factory_bot)
 
+<\br>
+<\br>
 
 # 드론대회 진행 상세 안내
 
@@ -47,6 +49,9 @@ __README.md 파일 업로드 기한 : 7월 13일 자정__
 * 팀 등록시 설정한 `팀 Github Repository`에 실행파일 업로드
   * 해당 파일이 없을시, __기권__ 으로 간주
   * 코드 실행이 안될시, __미션 실패__ 로 간주
+
+<\br>
+<\br>
   
 # 대회 일정
 |시간|내용|
@@ -55,6 +60,8 @@ __README.md 파일 업로드 기한 : 7월 13일 자정__
 |10:00 ~ 12:00|1차 대회 진행|
 |13:00|Github를 통한 코드 2차 clone|
 |13:30 ~ 15:30|2차 대회 진행|
+
+<\br>
 
 # 리그 별 대회 진행 순서
 
