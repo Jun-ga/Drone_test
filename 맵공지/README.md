@@ -18,11 +18,12 @@
  __1단계 링의 높이는 다음과 같습니다.__
   > +- 5cm의 오차가 있을 수 있습니다.
   
- <p align="center"><img width="600" alt="1단계 링" src="https://user-images.githubusercontent.com/56713634/176610814-7589f081-a8a2-4685-b7bd-09372ba66654.PNG"></p>
+ <p align="center"><img width="586" alt="1단계링" src="https://user-images.githubusercontent.com/56713634/176710451-6bd89cb4-3d5b-4a18-8a62-2b9115b6fc1b.png">
+</p>
 
 
  __상하 좌우 변동 범위는 다음과 같습니다.__
-<p align="center"><img width="900" alt="상하 좌우 변동 범위" src="https://user-images.githubusercontent.com/56713634/176614577-f92f0385-ce0b-4778-8b8b-2b48a888321c.PNG"></p>
+<p align="center"><img width="898" alt="상하,좌우 변동" src="https://user-images.githubusercontent.com/56713634/176710245-bdefe805-e5d9-45e8-9ae4-6616810f69c3.png"></p>
 
 
 * 앞뒤 변동의 범위는 1m~3m 이내입니다.
@@ -34,7 +35,8 @@
 # 링 상세 규격
   > +- 5cm의 오차가 있을 수 있습니다.
 
-<p align="center"><img width="600" alt="링 상세 규격" src="https://user-images.githubusercontent.com/56713634/176612081-d1b5075f-3624-4f78-a561-f277b6f7b6f8.PNG"></p>
+<p align="center"><img width="788" alt="링 상세규격" src="https://user-images.githubusercontent.com/56713634/176710584-2c360ff2-ea66-400f-b4c9-2d95014397a5.png">
+</p>
 
 # 표식 상세 규격
   > +- 5cm의 오차가 있을 수 있습니다.
@@ -47,7 +49,8 @@
 
 <p align="center"><img width="800" alt="표식" src="https://user-images.githubusercontent.com/56713634/176613986-52c198d5-1fd4-45c8-af51-27436952ab9f.jpg"></p>
 
-<p align="center"><img width="600" alt="표식과 링 사진" src="https://user-images.githubusercontent.com/56713634/176614137-fd4224b0-9f59-4011-b5ea-4809e8ce6030.PNG"></p>
+<p align="center"><img width="567" alt="표식과 링" src="https://user-images.githubusercontent.com/56713634/176710717-34d0325f-f9a9-41ac-86d5-1295c7f5250c.png">
+</p>
 
 
 # 채점
