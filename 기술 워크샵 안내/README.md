@@ -14,7 +14,7 @@ __README.md 파일 업로드 기한 : 7월 13일 자정__
 
 
 ## 수상
-* 대회 당일 심사위원 평가를 통해 A,B 리그 각 1팀 기술 워크샵 부문 우수작 선정
+* 대회 당일 심사위원 평가를 통해 기술 워크샵 부문 우수작 선정
 
 
 ## README.md 작성 예시
@@ -25,14 +25,20 @@ __README.md 파일 업로드 기한 : 7월 13일 자정__
 * [마크다운 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
 * README.md 작성 예시
-
+* [Sample 1](https://github.com/MrEliptik/HandPose/blob/master/README.md)
+* [Sample 2](https://github.com/thoughtbot/factory_bot)
 
 
 # 드론대회 진행 상세 안내
 
 ## YouTube 생방송
 * 대회는 YouTube 스트리밍을 통해 참여 가능합니다.
- > 대회 전날 링크 공개
+  > 대회 전날 링크 공개
+
+## 대회 맵 실제 이미지 공개
+* __드론 카메라__ 를 이용한 실제 맵
+  > 4차 실시간 워크샵 전 업로드 예정
+* 공개한 이미지를 이용하여 실제 맵의 색 정보를 코드에 반영
 
 ## 파일 실행 관련 공지
 * 실제 대회 당일에는 각 팀의 `Gihub Repository`에서 코드를 `Clone`하여 비행시킬 예정
@@ -49,8 +55,6 @@ __README.md 파일 업로드 기한 : 7월 13일 자정__
 |10:00 ~ 12:00|1차 대회 진행|
 |13:00|Github를 통한 코드 2차 clone|
 |13:30 ~ 15:30|2차 대회 진행|
-
-
 
 # 리그 별 대회 진행 순서
 
