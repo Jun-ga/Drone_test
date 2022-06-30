@@ -2,8 +2,7 @@
 
 ## 전체 경기장
 
-아래 이미지 수정필요.
-<p align="center"><img width="600" alt="전체 경기장" src="https://user-images.githubusercontent.com/56713634/176703430-b819b679-47fb-4688-a2b2-8264e6b74a5c.jpg"></p>
+<p align="center"><img width="600" alt="전체 경기장" src="https://user-images.githubusercontent.com/56713634/176705459-62fa8b3e-4aa2-4931-83ee-bfd6f501a742.jpg"></p>
 
 
 * 링과 표식사이의 거리는 1m입니다.
